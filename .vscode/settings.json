@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "typeorm"
+    ],
+    "less.lint.validProperties": [
+        "composes"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
